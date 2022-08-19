@@ -1,5 +1,5 @@
 # OpenGL Game Engine Development in Visual Studio Code (requirements)
-Para garantir a boa execução do openGL no sistema operacional Linux, certifique-se de que estes pacotes estão baixados...
+Para garantir a boa execução do openGL no sistema operacional Linux, certifique-se de que estes pacotes estão instalados...
 
 
 ```
