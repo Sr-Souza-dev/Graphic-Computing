@@ -1,0 +1,9 @@
+# ninja log v5
+0	2417	1668475368956202974	CMakeFiles/atv.dir/main.cpp.o	c5a6d5ae622bf4d3
+0	2443	1668475368980203376	CMakeFiles/atv.dir/src/figure.cpp.o	cf771e5bac03daa9
+3	2900	1668475403528783636	CMakeFiles/atv.dir/main.cpp.o	c5a6d5ae622bf4d3
+2900	3128	1668475403756787465	atv	12f7c5310dccd00c
+2	3440	1668475534335016787	CMakeFiles/atv.dir/main.cpp.o	c5a6d5ae622bf4d3
+2	3529	1668475534423018300	CMakeFiles/atv.dir/src/figure.cpp.o	cf771e5bac03daa9
+3	2695	1668475607288269745	CMakeFiles/atv.dir/main.cpp.o	c5a6d5ae622bf4d3
+2695	2871	1668475607464272764	atv	12f7c5310dccd00c
