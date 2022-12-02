@@ -1,5 +1,9 @@
 cmake_minimum_required(VERSION 3.16)
-project(PROJETO4)
-add_executable(${PROJECT_NAME} main.cpp "main.cpp")
+project(testGL)
+add_executable(${PROJECT_NAME} main.cpp)
 target_link_libraries(${PROJECT_NAME} GL glfw GLEW)
-add_custom_command(TARGET PROJETO4 POST_BUILD COMMAND ${CMAKE_COMMAND} -E create_symlink "${CMAKE_SOURCE_DIR}/shaders" "${CMAKE_BINARY_DIR}/shaders")
+
+add_custom_command(TARGET testGL POST_BUILD
+				   COMMAND ${CMAKE_COMMAND} -E create_symlink "${CMAKE_SOURCE_DIR}/shaders" "${CMAKE_BINARY_DIR}/shaders"
+				   COMMAND ${CMAKE_COMMAND} -E create_symlink "${CMAKE_SOURCE_DIR}/textures" "${CMAKE_BINARY_DIR}/textures"
+)

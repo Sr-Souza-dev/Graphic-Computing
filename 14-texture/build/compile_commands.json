@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/sr-souza/Área de Trabalho/College/Graphic-Computing/14-texture/build",
-  "command": "/usr/bin/g++    -g   -o CMakeFiles/testGL.dir/main.cpp.o -c \"/home/sr-souza/Área de Trabalho/College/Graphic-Computing/14-texture/main.cpp\"",
-  "file": "/home/sr-souza/Área de Trabalho/College/Graphic-Computing/14-texture/main.cpp"
-}
-]

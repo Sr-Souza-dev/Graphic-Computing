@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/sr-souza/Área de Trabalho/College/Graphic-Computing/17-geometric/build",
-  "command": "/usr/bin/g++    -g   -o CMakeFiles/square.dir/main.cpp.o -c \"/home/sr-souza/Área de Trabalho/College/Graphic-Computing/17-geometric/main.cpp\"",
-  "file": "/home/sr-souza/Área de Trabalho/College/Graphic-Computing/17-geometric/main.cpp"
-}
-]

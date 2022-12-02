@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/sr-souza/Área de Trabalho/College/Graphic-Computing/shaders_prog/build",
-  "command": "/usr/bin/g++    -g   -o CMakeFiles/PROJETO3.dir/main.cpp.o -c \"/home/sr-souza/Área de Trabalho/College/Graphic-Computing/shaders_prog/main.cpp\"",
-  "file": "/home/sr-souza/Área de Trabalho/College/Graphic-Computing/shaders_prog/main.cpp"
-}
-]
